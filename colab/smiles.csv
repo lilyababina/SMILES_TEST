@@ -1,0 +1,11 @@
+SMILES,Patent Name
+CN1C=NC2=C1C(=O)N(C)C(=O)N2C,test_page_1.pdf
+CC(=O)NC1=CC=C(C=C1)O,test_page_1.pdf
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,test_page_1.pdf
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,test_page_1.pdf
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC[C@@H]2[C@@H](CO)O[C@](CO)([C@H]2O)OC3[C@@H]([C@H]([C@@H]([C@@H](COC4[C@@H]([C@H]([C@H]([C@@H](CO)O4)O)O)O)O3)O)O)O,test_page_1.pdf
+CN1C=NC2=C1C(=O)N(C)C(=O)N2C,test_page.pdf
+CC(=O)NC1=CC=C(C=C1)O,test_page.pdf
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,test_page.pdf
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,test_page.pdf
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC[C@@H]2[C@@H](CO)O[C@](CO)([C@H]2O)OC3[C@@H]([C@H]([C@@H]([C@@H](COC4[C@@H]([C@H]([C@H]([C@@H](CO)O4)O)O)O)O3)O)O)O,test_page.pdf

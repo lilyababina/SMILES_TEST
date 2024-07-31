@@ -1,0 +1,8 @@
+31-Jul-24 13:04:54 - INFO - Starting recognition SMILES for folder input with 2 patents
+31-Jul-24 13:04:54 - INFO - Starting recognizing SMILES for file 1/2
+31-Jul-24 13:06:13 - INFO - Recognition SMILES for file 1/2 finished with time: 0:01:19.752818
+31-Jul-24 13:06:13 - INFO - Number of remaining patents 1
+31-Jul-24 13:06:13 - INFO - Starting recognizing SMILES for file 2/2
+31-Jul-24 13:07:29 - INFO - Recognition SMILES for file 2/2 finished with time: 0:01:15.277593
+31-Jul-24 13:07:29 - INFO - Number of remaining patents 0
+31-Jul-24 13:07:29 - INFO - Recognition SMILES for folder input finished
